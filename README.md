@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Currently i am learning full stack and AI ML and making projects 
+AI ML Developer | Full Stack Learner 
 
 
 ## 🌐 Socials:
